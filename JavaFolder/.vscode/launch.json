@@ -1,0 +1,46 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyClass",
+            "request": "launch",
+            "mainClass": "MyClass"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Factorial",
+            "request": "launch",
+            "mainClass": "Factorial"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - fibinocci",
+            "request": "launch",
+            "mainClass": "fibinocci"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - GFG",
+            "request": "launch",
+            "mainClass": "GFG"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibanocci",
+            "request": "launch",
+            "mainClass": "Fibanocci"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - firstJava",
+            "request": "launch",
+            "mainClass": "firstJava"
+        }
+    ]
+}
