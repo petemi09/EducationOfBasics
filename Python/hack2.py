@@ -17,8 +17,8 @@ def hack():
             hackGuess = str("0" + str(x))
         else:
             hackGuess = str(x)
-        print("0",hackGuess, type(hackGuess))
-        print("1",user, type(user))
+        #print("0",hackGuess, type(hackGuess))
+        #print("1",user, type(user))
         if user == hackGuess:
 
             return hackGuess, tries
