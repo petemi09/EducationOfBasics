@@ -1,0 +1,11 @@
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/bin/Debug/netcoreapp2.2/ArraysPT1.deps.json
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/bin/Debug/netcoreapp2.2/ArraysPT1.runtimeconfig.json
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/bin/Debug/netcoreapp2.2/ArraysPT1.runtimeconfig.dev.json
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/bin/Debug/netcoreapp2.2/ArraysPT1.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/bin/Debug/netcoreapp2.2/ArraysPT1.pdb
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/obj/Debug/netcoreapp2.2/ArraysPT1.csprojAssemblyReference.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/obj/Debug/netcoreapp2.2/ArraysPT1.csproj.CoreCompileInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/obj/Debug/netcoreapp2.2/ArraysPT1.AssemblyInfoInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/obj/Debug/netcoreapp2.2/ArraysPT1.AssemblyInfo.cs
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/obj/Debug/netcoreapp2.2/ArraysPT1.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/arrays/obj/Debug/netcoreapp2.2/ArraysPT1.pdb

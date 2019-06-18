@@ -1,0 +1,11 @@
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/myApp/obj/Debug/netcoreapp2.1/myApp.pdb

@@ -1,0 +1,11 @@
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.deps.json
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.runtimeconfig.json
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.runtimeconfig.dev.json
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.pdb
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.csprojAssemblyReference.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.AssemblyInfoInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.AssemblyInfo.cs
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.pdb

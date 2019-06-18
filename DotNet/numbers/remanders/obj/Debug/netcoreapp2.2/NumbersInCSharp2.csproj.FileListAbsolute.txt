@@ -1,0 +1,11 @@
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/bin/Debug/netcoreapp2.2/NumbersInCSharp2.deps.json
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/bin/Debug/netcoreapp2.2/NumbersInCSharp2.runtimeconfig.json
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/bin/Debug/netcoreapp2.2/NumbersInCSharp2.runtimeconfig.dev.json
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/bin/Debug/netcoreapp2.2/NumbersInCSharp2.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/bin/Debug/netcoreapp2.2/NumbersInCSharp2.pdb
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/obj/Debug/netcoreapp2.2/NumbersInCSharp2.csprojAssemblyReference.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/obj/Debug/netcoreapp2.2/NumbersInCSharp2.csproj.CoreCompileInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/obj/Debug/netcoreapp2.2/NumbersInCSharp2.AssemblyInfoInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/obj/Debug/netcoreapp2.2/NumbersInCSharp2.AssemblyInfo.cs
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/obj/Debug/netcoreapp2.2/NumbersInCSharp2.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/numbers/remanders/obj/Debug/netcoreapp2.2/NumbersInCSharp2.pdb

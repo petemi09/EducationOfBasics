@@ -1,0 +1,11 @@
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/bin/Debug/netcoreapp2.2/ConditionsPT1.deps.json
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/bin/Debug/netcoreapp2.2/ConditionsPT1.runtimeconfig.json
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/bin/Debug/netcoreapp2.2/ConditionsPT1.runtimeconfig.dev.json
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/bin/Debug/netcoreapp2.2/ConditionsPT1.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/bin/Debug/netcoreapp2.2/ConditionsPT1.pdb
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/obj/Debug/netcoreapp2.2/ConditionsPT1.csprojAssemblyReference.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/obj/Debug/netcoreapp2.2/ConditionsPT1.csproj.CoreCompileInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/obj/Debug/netcoreapp2.2/ConditionsPT1.AssemblyInfoInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/obj/Debug/netcoreapp2.2/ConditionsPT1.AssemblyInfo.cs
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/obj/Debug/netcoreapp2.2/ConditionsPT1.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/for loops/obj/Debug/netcoreapp2.2/ConditionsPT1.pdb
