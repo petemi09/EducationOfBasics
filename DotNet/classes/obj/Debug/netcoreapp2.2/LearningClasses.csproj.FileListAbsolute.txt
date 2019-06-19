@@ -1,0 +1,11 @@
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/obj/Debug/netcoreapp2.2/LearningClasses.csprojAssemblyReference.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/obj/Debug/netcoreapp2.2/LearningClasses.csproj.CoreCompileInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/obj/Debug/netcoreapp2.2/LearningClasses.AssemblyInfoInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/obj/Debug/netcoreapp2.2/LearningClasses.AssemblyInfo.cs
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/bin/Debug/netcoreapp2.2/LearningClasses.deps.json
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/bin/Debug/netcoreapp2.2/LearningClasses.runtimeconfig.json
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/bin/Debug/netcoreapp2.2/LearningClasses.runtimeconfig.dev.json
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/bin/Debug/netcoreapp2.2/LearningClasses.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/bin/Debug/netcoreapp2.2/LearningClasses.pdb
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/obj/Debug/netcoreapp2.2/LearningClasses.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/classes/obj/Debug/netcoreapp2.2/LearningClasses.pdb
