@@ -1,0 +1,11 @@
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/bin/Debug/netcoreapp2.2/LearningBasics.deps.json
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/bin/Debug/netcoreapp2.2/LearningBasics.runtimeconfig.json
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/bin/Debug/netcoreapp2.2/LearningBasics.runtimeconfig.dev.json
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/bin/Debug/netcoreapp2.2/LearningBasics.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/bin/Debug/netcoreapp2.2/LearningBasics.pdb
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/obj/Debug/netcoreapp2.2/LearningBasics.csprojAssemblyReference.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/obj/Debug/netcoreapp2.2/LearningBasics.csproj.CoreCompileInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/obj/Debug/netcoreapp2.2/LearningBasics.AssemblyInfoInputs.cache
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/obj/Debug/netcoreapp2.2/LearningBasics.AssemblyInfo.cs
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/obj/Debug/netcoreapp2.2/LearningBasics.dll
+/Users/Mpetellin11/Desktop/Code/DotNet/inputs/simple input/obj/Debug/netcoreapp2.2/LearningBasics.pdb
