@@ -1,4 +1,4 @@
-﻿using System;
+ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Threading.Tasks;
@@ -17,7 +17,7 @@ namespace TeleprompterConsole
 			// Console.Write(line);
 			// if (!string.IsNullOrWhiteSpace(line))
 			// {
-			// 	var pause = Task.Delay(200);
+			// 	var pause = Task.Delay(500);
 			// 	// Synchronously waiting on a task is an
 			// 	// anti-pattern. This will get fixed in later
 			// 	// steps.
