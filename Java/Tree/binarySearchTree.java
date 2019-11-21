@@ -11,7 +11,6 @@ class Node
         left = right = null; 
     } 
 } 
-  
 // A Java program to introduce Binary Tree 
 class BinaryTree 
 { 
@@ -23,12 +22,10 @@ class BinaryTree
     { 
         root = new Node(key); 
     } 
-  
     BinaryTree() 
     { 
         root = null; 
     } 
-  
     public static void main(String[] args) 
     { 
         BinaryTree tree = new BinaryTree(); 
@@ -40,6 +37,7 @@ class BinaryTree
         tree.root.left.left = new Node(4); 
         /* 4 becomes left child of 2 
                     1 
+                  /   \
                 /       \ 
                2          3 
              /   \       /  \ 
@@ -47,7 +45,5 @@ class BinaryTree
            /   \ 
           null null 
          */
-        
-        
     } 
 } 
